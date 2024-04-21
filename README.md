@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a student of the Faculty of Robotics and Integrated Automation of Bauman Moscow State Technical University, a CAD developer.
 <!--
 **NovokshanovE/NovokshanovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
