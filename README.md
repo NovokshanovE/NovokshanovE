@@ -1,5 +1,8 @@
 ### Hi there 👋
 I am a student of the Faculty of Robotics and Integrated Automation of Bauman Moscow State Technical University, a CAD developer.
+
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on [MicroFlow](https://github.com/NovokshanovE/MicroFlow) project
 <!--
 **NovokshanovE/NovokshanovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +21,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NovokshanovE&theme=dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
-[Резюме](https://github.com/NovokshanovE/CV/blob/main/CV_Novokshanov_back.pdf)
+[CV](https://github.com/NovokshanovE/CV/blob/main/CV_Novokshanov_back.pdf)
+
+
