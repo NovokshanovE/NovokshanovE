@@ -1,8 +1,9 @@
 ### Hi there 👋
 I am a student of the Faculty of Robotics and Integrated Automation of Bauman Moscow State Technical University, a CAD developer.
 
-- 🌱 I’m currently learning Java
-- 🔭 I’m currently working on [MicroFlow](https://github.com/NovokshanovE/MicroFlow) project
+- 👾 I am currently studying microservice development on Go
+- 🔭 Looking for jobs and startups
+- 🎸 I listen to rock, metal and epic metal
 <!--
 **NovokshanovE/NovokshanovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
