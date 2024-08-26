@@ -5,6 +5,8 @@ I completed my bachelor's degree at Bauman Moscow State Technical University und
 - 👾 I am developing as a backend programmer in Go and C++.
 - 🔭 Looking for jobs and startups
 - 🎸 I listen to rock, metal and epic metal
+
+My CV: https://novokshanove.github.io/CV/
 <!--
 **NovokshanovE/NovokshanovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
