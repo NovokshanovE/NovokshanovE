@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NovokshanovE&theme=dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
+
 
 [CV](https://novokshanove.github.io/CV/)
 
